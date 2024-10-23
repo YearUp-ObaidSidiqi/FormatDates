@@ -3,7 +3,7 @@ package com.pluralsight;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Exercise2 {
+public class FormatDates {
     public static void main(String[] args) {
 
 
